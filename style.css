@@ -97,6 +97,7 @@ a {
     grid-column: 1;
     margin: 10px 70px;
 }
+<<<<<<< HEAD
 #welcome{
     visibility: show;
     text-align: right;
@@ -104,3 +105,5 @@ a {
     margin: 50px;
     font-size: 20px
 }
+=======
+>>>>>>> fc6fc7098bb5aefc0d77913d2375ddc8ba5fe490
