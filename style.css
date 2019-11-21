@@ -84,7 +84,9 @@ a {
     background-color: darkviolet;
 }
 
-
+/*p{
+    visibility: hidden;
+}*/
 /* ABOUT ME SPECIFIC*/
 
 #pic {
@@ -94,4 +96,11 @@ a {
     height: 400px;
     grid-column: 1;
     margin: 10px 70px;
+}
+#welcome{
+    visibility: show;
+    text-align: right;
+    grid-column: 2 /span 3;
+    margin: 50px;
+    font-size: 20px
 }
