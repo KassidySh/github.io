@@ -48,14 +48,14 @@ a {
  }
 
 .information {
-    background-image: url("https://images.unsplash.com/photo-1545418543-13cac00f971c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
-    background-color: red;
+    /* background-image: url("https://images.unsplash.com/photo-1545418543-13cac00f971c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"); */
+    background-color: lightskyblue;
     grid-row: 3;
 }
 
  #p1 {
-    background-image: url("https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/72244041_380828819537820_6445527463433863168_n.jpg?_nc_cat=107&_nc_ohc=E5rRhSAneyUAQnbmjc9Wofq2gdFJyP2A4A2m5tB2i59RZgr0I7VSiy6RQ&_nc_ht=scontent-dfw5-2.xx&oh=feb9ba528756002a8fcf431e4506f4b0&oe=5E4F5565"); 
-    background-color: orangered;
+    /* background-image: url("https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/72244041_380828819537820_6445527463433863168_n.jpg?_nc_cat=107&_nc_ohc=E5rRhSAneyUAQnbmjc9Wofq2gdFJyP2A4A2m5tB2i59RZgr0I7VSiy6RQ&_nc_ht=scontent-dfw5-2.xx&oh=feb9ba528756002a8fcf431e4506f4b0&oe=5E4F5565");  */
+    background-color: lightskyblue;
      grid-row: 3;
  }
  
